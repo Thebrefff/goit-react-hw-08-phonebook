@@ -1,0 +1,18 @@
+.authNavList {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
+
+.link {
+  display: inline-block;
+  text-decoration: none;
+  padding: 12px;
+  font-weight: 700;
+  color: #2a363b;
+}
+
+.link:active {
+  transform: scale(1.2);
+  color: rgb(127, 34, 136);
+}
