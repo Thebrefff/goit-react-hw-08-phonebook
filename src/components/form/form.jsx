@@ -30,8 +30,7 @@ export const Form = () => {
     }
 
     dispatch(addContactsThunk({ name, number }));
-    // dispatch(addContact({ name, number }));
-
+  
     reset();
   };
 

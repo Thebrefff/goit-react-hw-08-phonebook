@@ -3,7 +3,7 @@
   flex-direction: column;
   justify-content: center;
   margin: 0 auto;
-  width: 45%;
+  width: 46%;
 
   font-size: 20px;
 
@@ -13,7 +13,6 @@
 .input {
   margin: 0 auto;
   border-color: rgb(50, 4, 71);
-  filter: drop-shadow(4px 4px 4px rgb(5, 19, 99));
   border-radius: 4px;
-  width: 45%;
+  width: 46%;
 }

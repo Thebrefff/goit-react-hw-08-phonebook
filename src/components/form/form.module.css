@@ -5,8 +5,8 @@
   gap: 30px;
   width: 400px;
 
-  outline: 3px solid rgb(50, 4, 71);
-  background-color: #c7cca9;
+  outline: 3px solid rgb(14, 12, 15);
+  background-color: #e499c2;
   filter: drop-shadow(4px 4px 4px rgb(5, 19, 99));
 
   margin: 0 auto;
@@ -26,7 +26,7 @@
 }
 
 .input {
-  border-color: rgb(50, 4, 71);
+  border-color: rgb(45, 93, 248);
   border-radius: 4px;
   filter: drop-shadow(4px 4px 4px rgb(5, 19, 99));
 }
@@ -40,17 +40,16 @@
 
   font-size: 15px;
 
-  color: rgb(16, 3, 63);
-  background-color: rgb(10, 208, 243);
+  color: rgb(16, 3, 64);
+  background-color: rgb(245, 238, 242);
   filter: drop-shadow(4px 4px 4px rgb(5, 19, 99));
 }
 
 .btn:hover {
   color: rgb(242, 244, 247);
-  background-color: rgb(59, 143, 10);
+  background-color: rgb(59, 144, 10);
 }
 .btn:active {
   transform: scale(0.8);
   filter: none;
-  /* filter: drop-shadow(0px 0px 0px rgb(2, 36, 12)); */
-}
+ }
